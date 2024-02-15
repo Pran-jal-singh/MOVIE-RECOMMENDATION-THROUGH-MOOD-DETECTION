@@ -1,0 +1,6 @@
+#Libraries used...
+Here we have used various python libraries such as open cv,  TensorFlow, keras, Numpy, matplotlib, nltk, etc. to make the model.
+As there was no available database available, we have used Python web scraping to get the required data. This is implemented using beautifulsoup4.
+Python web scraping is an automated method used for collecting large amounts of data from websites and storing it in a structured form .
+For making the GUI of the project we have used the Tkinter. Tkinter is the de facto way in Python to create Graphical User Interfaces (GUIs). 
+For mood detection we have used OpenCV along with other libraries and database is taken from Kaggle.
